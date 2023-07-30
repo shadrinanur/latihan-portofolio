@@ -21,7 +21,7 @@
                     </svg> Pendidikan
                 </a>
                 <center>
-                    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="../assets/pendidikan (1).png" alt=""> <br>    
+                    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="../assets/pendidikan.png" alt=""> <br>    
                 <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2" style="background-color: coral; font-style: oblique;">Pendidikan Saya</h2></center>
                 <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4"> 2016 | SDN Cangkuang 06.</p>
                 <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4"> 2020 | SMP Negeri 2 Dayeuhkolot.</p>
